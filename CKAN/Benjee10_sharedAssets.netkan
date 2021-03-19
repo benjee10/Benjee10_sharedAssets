@@ -19,7 +19,8 @@
   "recommends": [
       { "name" : "HabTech2" },
       { "name" : "reDIRECT" },
-      { "name" : "Shuttle-Orbiter-Construction-Kit" }
+      { "name" : "Shuttle-Orbiter-Construction-Kit" },
+      { "name" : "Waterfall" }
   ],
   "install" : [
       { "find" : "Benjee10_sharedAssets",
