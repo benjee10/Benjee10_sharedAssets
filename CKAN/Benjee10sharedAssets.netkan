@@ -1,6 +1,6 @@
 {
   "spec_version"        : "v1.4",
-  "identifier"          : "Benjee10_sharedAssets",
+  "identifier"          : "Benjee10sharedAssets",
   "$kref"               : "#/ckan/github/benjee10/Benjee10_sharedAssets",
   "abstract"            : "Shared assets for Benjee10 mods",
   "author"              : "benjee10",
