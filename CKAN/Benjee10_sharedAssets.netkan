@@ -1,0 +1,32 @@
+{
+  "spec_version"        : "v1.4",
+  "identifier"          : "Benjee10_sharedAssets",
+  "$kref"               : "#/ckan/github/benjee10/Benjee10_sharedAssets",
+  "abstract"            : "Shared assets for Benjee10 mods",
+  "author"              : "benjee10",
+  "license"             : "restricted",
+  "release_status"      : "stable",
+  "$vref"               : "#/ckan/ksp-avc",
+  "resources": {
+    "homepage": "https://github.com/benjee10/Benjee10_sharedAssets",
+    "repository": "https://github.com/benjee10/Benjee10_sharedAssets"
+  },
+  "depends": [
+      { "name" : "ModuleManager" },
+      { "name" : "B9PartSwitch" },
+      { "name" : "CommunityResourcePack" }
+  ],
+  "recommends": [
+      { "name" : "HabTech2" },
+      { "name" : "reDIRECT" },
+      { "name" : "Shuttle-Orbiter-Construction-Kit" }
+  ],
+  "install" : [
+      { "find" : "Benjee10_sharedAssets",
+        "install_to" : "GameData"
+      }
+  ],
+  "tags": [
+      "library"
+]
+}
