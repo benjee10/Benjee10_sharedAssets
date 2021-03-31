@@ -1,4 +1,4 @@
-Benjee10sharedAssets 0.1.0
+Benjee10sharedAssets 0.1.1
 A part library for Kerbal Space Program 1.8.0+ by Benjee10.
 
 INSTALLATION
@@ -14,6 +14,9 @@ PROVIDES CONFIGS for
   - Waterfall (tested against 0.6.2)
 
 CHANGELOG
+0.1.1 - PUBLIC RELEASE
+  - Removed outdated assets
+  - Separated HabTechProps into a different mod
 0.1.0 - PUBLIC RELEASE
   - Initial release
 
