@@ -17,7 +17,8 @@
       { "name" : "CommunityResourcePack" }
   ],
   "recommends": [
-      { "name" : "HabTech2" }
+      { "name" : "HabTech2" },
+      { "name" : "Waterfall"}
   ],
   "install" : [
       { "find" : "Benjee10_sharedAssets",
