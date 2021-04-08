@@ -18,17 +18,11 @@
   ],
   "recommends": [
       { "name" : "HabTech2" },
-      { "name" : "reDIRECT" },
-      { "name" : "Shuttle-Orbiter-Construction-Kit" },
-      { "name" : "Benjee10MMSEV" },
-      { "name" : "Waterfall" }
+      { "name" : "Waterfall"}
   ],
   "install" : [
       { "find" : "Benjee10_sharedAssets",
         "install_to" : "GameData"
       }
-  ],
-  "tags": [
-      "library"
-]
+  ]
 }
