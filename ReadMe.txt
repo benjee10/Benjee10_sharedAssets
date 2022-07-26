@@ -14,6 +14,9 @@ PROVIDES CONFIGS for
   - Waterfall (tested against 0.6.2)
 
 CHANGELOG
+0.2.0
+  - Added new AJ10 engine part
+  - Soft deprecated old AJ10 part
 0.1.1 - PUBLIC RELEASE
   - Removed outdated assets
   - Separated HabTechProps into a different mod
