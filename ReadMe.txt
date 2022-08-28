@@ -1,4 +1,4 @@
-Benjee10sharedAssets 0.1.1
+Benjee10sharedAssets 0.2.0
 A part library for Kerbal Space Program 1.8.0+ by Benjee10.
 
 INSTALLATION
