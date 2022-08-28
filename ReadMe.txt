@@ -1,4 +1,4 @@
-Benjee10sharedAssets 0.2.0
+Benjee10sharedAssets 0.2.1
 A part library for Kerbal Space Program 1.8.0+ by Benjee10.
 
 INSTALLATION
@@ -24,4 +24,4 @@ CHANGELOG
   - Initial release
 
 LICENSE
-Artwork is copyright Benedict Jewer 2019-2021. All Rights Reserved.
+Artwork is copyright Benedict Jewer 2019-2022. All Rights Reserved.
