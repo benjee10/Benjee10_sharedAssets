@@ -14,6 +14,8 @@ PROVIDES CONFIGS for
   - Waterfall (tested against 0.6.2)
 
 CHANGELOG
+0.2.2
+  - Added Common Berthing Mechanism (Passive, Active I and Active II variants)
 0.2.1
   - Added new AJ10 engine part
   - Soft deprecated old AJ10 part
@@ -26,4 +28,4 @@ CHANGELOG
   - Initial release
 
 LICENSE
-Artwork is copyright Benedict Jewer 2019-2022. All Rights Reserved.
+Artwork is copyright Benedict Jewer 2019-2023. All Rights Reserved.
