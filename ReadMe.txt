@@ -1,4 +1,4 @@
-Benjee10sharedAssets 0.2.1
+Benjee10sharedAssets 0.2.2
 A part library for Kerbal Space Program 1.8.0+ by Benjee10.
 
 INSTALLATION
@@ -16,6 +16,9 @@ PROVIDES CONFIGS for
 CHANGELOG
 0.2.2
   - Added Common Berthing Mechanism (Passive, Active I and Active II variants)
+  - Added Hybrid SSVP-APAS ports (male & female) - compatible with Tantares SSVP ports
+  - Added blue handrail variant for IDA
+  - Added tan variant to APAS and hybrid-type ports to match Tantares
 0.2.1
   - Added new AJ10 engine part
   - Soft deprecated old AJ10 part
