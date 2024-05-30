@@ -1,4 +1,4 @@
-Benjee10sharedAssets 0.2.2
+Benjee10sharedAssets 0.3.0 - DEV VERSION
 A part library for Kerbal Space Program 1.8.0+ by Benjee10.
 
 INSTALLATION
@@ -14,6 +14,8 @@ PROVIDES CONFIGS for
   - Waterfall (tested against 0.6.2)
 
 CHANGELOG
+0.3.0 DEV VERSION
+  - Added passive NASA Docking System part
 0.2.2
   - Added Common Berthing Mechanism (Passive, Active I and Active II variants)
   - Added Hybrid SSVP-APAS ports (male & female) - compatible with Tantares SSVP ports
