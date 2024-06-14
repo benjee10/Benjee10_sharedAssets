@@ -16,6 +16,7 @@ PROVIDES CONFIGS for
 CHANGELOG
 0.3.0 DEV VERSION
   - Added passive NASA Docking System part
+  - Added trunnion pin assets
 0.2.2
   - Added Common Berthing Mechanism (Passive, Active I and Active II variants)
   - Added Hybrid SSVP-APAS ports (male & female) - compatible with Tantares SSVP ports
