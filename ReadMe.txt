@@ -1,4 +1,4 @@
-Benjee10sharedAssets 0.3.0 - DEV VERSION
+Benjee10sharedAssets 0.3.0
 A part library for Kerbal Space Program 1.8.0+ by Benjee10.
 
 INSTALLATION
@@ -14,7 +14,7 @@ PROVIDES CONFIGS for
   - Waterfall (tested against 0.6.2)
 
 CHANGELOG
-0.3.0 DEV VERSION
+0.3.0
   - Added passive NASA Docking System part
   - Added trunnion pin assets
   - Added switchable shroud variants to CBM parts
